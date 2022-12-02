@@ -59,6 +59,8 @@ Players have to type their name in order to unlock the start game functionality.
 
 ![Functions, loops and object manipulation 1](https://res.cloudinary.com/frank2021/image/upload/v1669929007/pokemon_game/fetchfucntion_qj7loh.png)
 
+- The async function declaration declares a function where the await keyword is permitted within the function body. The async and await keywords enable asynchronous, promise-based behavior.
+
 ## Loops
 
 - We have also used loops to help on the process of data fetching, in this case we made use of a _while_ loop.
@@ -94,6 +96,12 @@ Players have to type their name in order to unlock the start game functionality.
   (JavaScript modules allow you to break up your code into separate files. This makes it easier to maintain the code-base. JavaScript modules rely on the import and export statements.)
 
 ## Array and local storage
+
+#### Array and Objects
+
+- Arrays are used to store multiple values in a single variable. Each item in an array has a number attached to it.
+
+- An object is a collection of properties, an association between a key and a value.
 
 - This project also makes use of arrays, and local storage which saves the user data on their machine holding the player scores in a array, displaying a list of scores to the user, also putting into effect DOM manipulation through append/prepend the score board element into the DOM.
 
