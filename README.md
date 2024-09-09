@@ -1,6 +1,6 @@
 # Pokemon Memory Game
 
-- [Click here for live project](https://adorable-syrniki-de194e.netlify.app/)
+- [Click here for live project](https://pokeyourmemory.netlify.app/)
 
 ![Game Logo](https://res.cloudinary.com/frank2021/image/upload/v1669823748/pokemon_game/2022-11-30_7_ogcpro.png)
 
